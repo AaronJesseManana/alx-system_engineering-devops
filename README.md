@@ -1,2 +1,1 @@
-alx-system_engineering-deops
-
+Display the first 10 lines 
